@@ -442,7 +442,7 @@ h6 {
 .video__img {
   height: 570px;
 
-  background: url("/img/video__inner.png") center no-repeat;
+  background: url("img/video__inner.png") center no-repeat;
   -webkit-background-size: cover;
   background-size: cover;
 }
@@ -478,7 +478,6 @@ h6 {
 
 .video__btn {
   display: flex;
-  border: 1px solid rgb(143, 81, 81)197, 39, 39);
 }
 
 .video__icon {
