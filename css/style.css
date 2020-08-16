@@ -83,7 +83,6 @@ h6 {
   height: 900px;
 
   background: url("/img/main.svg") center no-repeat;
-  -webkit-background-size: cover;
   background-size: cover;
 }
 
