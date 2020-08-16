@@ -82,7 +82,7 @@ h6 {
   width: 100%;
   height: 900px;
 
-  background: url("/img/main.jpg") center no-repeat;
+  background: url("../img/main.jpg") center no-repeat;
   background-size: cover;
 }
 
@@ -325,7 +325,7 @@ h6 {
 .work__fon {
   height: 490px;
 
-  background: url("/img/work__inner.png") center no-repeat;
+  background: url("../img/work__inner.png") center no-repeat;
   -webkit-background-size: cover;
   background-size: cover;
 }
